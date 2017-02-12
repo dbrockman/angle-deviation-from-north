@@ -1,6 +1,6 @@
 {
   "name": "angle-deviation-from-north",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Determines the clockwise angle deviation from the North direction",
   "main": "index.js",
   "files": [
