@@ -1,0 +1,35 @@
+{
+  "name": "angle-deviation-from-north",
+  "version": "0.0.0",
+  "description": "Determines the clockwise angle deviation from the North direction",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^18.1.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbrockman/angle-deviation-from-north.git"
+  },
+  "keywords": [
+    "geo",
+    "angle"
+  ],
+  "author": "David Brockman Smoliansky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbrockman/angle-deviation-from-north/issues"
+  },
+  "homepage": "https://github.com/dbrockman/angle-deviation-from-north#readme"
+}
