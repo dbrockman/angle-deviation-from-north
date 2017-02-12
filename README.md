@@ -1,5 +1,6 @@
 # angle-deviation-from-north
 
+[![Build Status](https://travis-ci.org/dbrockman/angle-deviation-from-north.svg?branch=master)](https://travis-ci.org/dbrockman/angle-deviation-from-north)
 [![Greenkeeper badge](https://badges.greenkeeper.io/dbrockman/angle-deviation-from-north.svg)](https://greenkeeper.io/)
 
 Determines the clockwise angle deviation from the North direction.
