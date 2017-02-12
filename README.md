@@ -20,10 +20,7 @@ const determineAngleDeviationFromNorth = require('angle-deviation-from-north');
 const from = { latitude: 59.45337, longitude: 18.5579 };
 const to = { latitude: 59.45337, longitude: 18.5569 };
 
-const result = determineAngleDeviationFromNorth(from, to);
-expect(result).toBeCloseTo(270, 6);
-
-determineAngleDeviationFromNorth(a, b);
+determineAngleDeviationFromNorth(from, to);
 //=> 270
 ```
 
