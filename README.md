@@ -1,5 +1,7 @@
 # angle-deviation-from-north
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dbrockman/angle-deviation-from-north.svg)](https://greenkeeper.io/)
+
 Determines the clockwise angle deviation from the North direction.
 
 The implementation uses the Rhumb line algorithm which is efficient and accurate for short distances.
